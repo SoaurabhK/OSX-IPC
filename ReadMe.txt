@@ -19,3 +19,4 @@ OSX - Supports 10.8 and later
 References-
 https://developer.apple.com/library/prerelease/content/samplecode/FlightFinder/Introduction/Intro.html
 https://developer.apple.com/videos/play/wwdc2012/241/
+https://developer.apple.com/library/mac/samplecode/AppSandboxLoginItemXPCDemo/Introduction/Intro.html
